@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+}
+
+h1, #p1 {
+    margin-top: 30px;
+    text-align: center;
+    font-family: "Lucida Console", Courier, monospace;
+    font-style: normal;
+}
+
+#p2 {
+    margin-left: 30px;
+    font-size: 20px;
+    color: blue;
+    font-family: "Lucida Console", Courier, monospace;
+    font-style: normal;
+}
